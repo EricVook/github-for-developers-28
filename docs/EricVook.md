@@ -5,3 +5,4 @@
      **Favorite food:** Fajita salad
      **Hobby:** Sing in a choir or smaller ensembles
      **Favorite color:** Green
+     **Current home:** North Carolina
