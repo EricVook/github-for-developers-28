@@ -2,7 +2,8 @@
 
      **Name:** Eric Vook
      **Former home:** New Mexico
-     **Favorite food:** Fajita salad
+     **Current home:** North Carolina
+     **Favorite food:** Fajitas
      **Hobby:** Sing in a choir or smaller ensembles
      **Favorite color:** Green
-     **Current home:** North Carolina
+
